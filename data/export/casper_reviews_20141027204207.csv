@@ -1,0 +1,163 @@
+name,location,age,partner?,pet?,dog?,cat?
+Heather Anderson,"Denver, CO",25,true,false,false,false
+Michael Lewis,"Fort Collins, CO",27,false,true,true,false
+Tim King,"Naples, FL",60,false,true,true,false
+Aliza Hausman,"LOS ANGELES, CA",34,true,false,false,false
+Trish,"Wichita Falls, TX",29,true,true,true,false
+Trish,"Wichita Falls, TX",29,true,true,true,false
+Brook Baker,"Houston, TX",44,true,true,false,true
+Jill Bergus,"Dallas, TX",41,true,true,true,false
+Armand Keim,"Tuckahoe, NY",80,true,false,false,false
+Perry Jones,"Newark, OH",63,false,false,false,false
+Jona Decker,"Madison, WI",41,false,true,true,false
+Steve Bucknam,"Stratham, NH",42,true,true,false,true
+Raymond Schelp,"Lees Summit, MO",65,false,true,true,false
+Armand Keim,"Tuckahoe, NY",80,true,false,false,false
+Terrence Robbins,"Seattle, WA",46,true,true,true,false
+Roger,"Charleston,",29,false,false,false,false
+Coleen Kearon,"Montpelier, VT",50,false,true,true,false
+Sophia McLin,"Amesbury, MA",39,true,false,false,false
+John Dowler,"Tallahassee, FL",64,false,false,false,false
+Michelle D,"Portland, OR",34,true,true,false,true
+Beth Gunzinger,"Woodbridge, VA",53,true,false,false,false
+Anna Bowles,"San Francisco, CA",23,false,true,true,false
+Derek Severance,"Northwood, NH",39,true,false,false,false
+Carl Spitzer,"Mill Valley, CA",53,false,false,false,false
+Drew,"Brooklyn, NY",39,false,true,true,false
+Matt Tormey,"phoenix, AZ",25,true,false,false,false
+Amanda Don,"Manahawkin, NJ",33,true,true,true,false
+Michael Berman,"Brooklyn, NY",34,false,true,true,false
+David E,"Naples, FL",26,false,false,false,false
+Josh Peizer,"Severn, MD",27,false,true,false,true
+Kyle Bome,"Syracuse, NY",29,false,false,false,false
+Jimmy Ly,"Chicago, IL",25,false,false,false,false
+Bea Fremderman,"Brooklyn, NY",26,false,false,false,false
+Metra Horetsky,"Arlington, VA",27,true,false,false,false
+Alex and Danielle,"Buffalo, NY",26,true,true,false,true
+Patricia Floyd,"Springfield, IL",58,true,true,false,true
+Patrick & Susan Kopplin,"Houston, TX",65,true,true,true,false
+Valerie K and Sam H,"Kalispell, MT",37,true,true,false,true
+Shelby Meinzer,"Santa Monica, CA",31,false,false,false,false
+Malte & Franzi,"Los Angeles, CA",31,true,false,false,false
+Jamie Hogan,"Pecos, TX",35,true,true,true,false
+Steve Angle,"St Louis, MO",62,true,true,true,false
+Angela Salvo,"San Diego, CA",39,false,true,false,true
+Ty,"San Diego, CA",23,false,false,false,false
+John W,"Danville, KY",27,true,true,true,false
+Lydia Ortega ,"Austin, TX",34,true,false,false,false
+Melissa Drawdy,"Fountain, CO",34,true,true,true,false
+Ed Givhan,"Tuscaloosa, AL",75,false,false,false,false
+Mike Coyle,"Philadelphia, PA",40,true,false,false,false
+Nicholas Mack,"TALLAHASSEE, FL",30,false,true,true,false
+Larry& Shirley Sparks,"Morganton, NC",72,true,true,true,false
+Vaughn Felix,"Doral, FL",35,true,false,false,false
+Manoj Joshi,"Sunnyvale, CA",43,true,false,false,false
+Halvor Remole,"Darien, CT",20,false,true,true,false
+Daniel Wald,"New Haven, CT",27,false,false,false,false
+Carl Bausemer,"Sutton, MA",46,true,true,true,false
+Chris D,"Washington, DC",2,true,false,false,false
+Arsham M,"Cambridge, MA",22,false,true,true,false
+Alok,"Philadelphia, PA",47,true,false,false,false
+Bob Francis Howard III,"Austin, WV",59,true,false,false,false
+Sunny Stueve,"Alexandria, VA",35,true,true,true,false
+Dustin G,"new york city, NY",1,true,false,false,false
+Scott Walther,"Pikeville, NC",37,true,false,false,false
+Mikah D. Sargent,"Columbia, MO",21,true,false,false,false
+Jimmy Ly,"Chicago, IL",25,false,false,false,false
+gerome and kathy,"charelston, WV",55,false,true,true,false
+Tyler Reeves,"Birmingham, AL",29,true,true,false,true
+Matthew Pietkevich,"West Hartfrod, CT",25,false,false,false,false
+Amanda Kwasniewicz,"Santa Monica, CA",23,false,false,false,false
+Terry Smith,"New York, NY",34,false,true,true,false
+Colleen Rosenberg,"447 N. Union Avenue, AL",61,false,true,true,false
+Bon Duke,"Brooklyn, NY",26,false,false,false,false
+Bonnie Bashor,"Nashville, TN",66,false,true,true,false
+Jason Vilardi,"Epping, NH",27,true,true,true,false
+Katie Parker,"Seattle, WA",29,false,true,true,false
+"Kevin, Jess and Tuxxi","Denver, CO",29,true,true,true,false
+Scott Ebling,"Des Moines, IA",40,false,true,false,true
+Sean Hertzsch,"Covington, KY",39,true,false,false,false
+Kyle Crumrine,"Oakland, CA",31,true,false,false,false
+Zoe Bradley,"Sharon, MA",62,false,true,false,true
+Lane and Carol Wise,"Westland, MI",64,true,false,false,false
+Rachel Giuliani,"Portland, OR",31,false,true,false,true
+Adam Syfrett,"Auburn, AL",30,false,true,true,false
+Michael Parks,"Durham, ME",54,true,false,false,false
+Vinod Ethirajan,"Highlands Ranch, CO",45,true,false,false,false
+Josh Amos,"Denver, CO",32,true,true,true,false
+Karen Valentine,"Brooklyn, NY",34,true,true,true,false
+Meredith Denver,"Texas, TX",44,true,false,false,false
+Lucas Mascatello,"New York, NY",24,false,false,false,false
+Ryan K.,"Petaluma, CA",34,true,true,true,false
+Matt Vaughn,"Olathe, KS",34,true,false,false,false
+Ty Alan,"Las Vegas, NV",31,false,true,true,false
+John P,"Rodeo, CA",33,true,true,true,false
+Jim D.,"Charlottesville, VA",35,true,false,false,false
+rebecca lucas,"altadena, CA",35,true,true,false,true
+David Howard,"Tarzana, CA",52,true,true,true,false
+Angela Peterman,"Houston, TX",50,true,false,false,false
+Rhett Summers,"Washington, DC",27,true,false,false,false
+Dave Nordstrom,"New York, NY",26,false,false,false,false
+Nancy Grant,"Carpinteria, CA",82,false,true,false,true
+Bret Ridenour,"Fargo, ND",45,true,true,true,false
+James Plummer,"Albuquerque, NM",64,true,true,true,false
+Chris & Cassie Ceccoli,"Minneapolis, MN",38,true,true,true,false
+Ryan Conley,"Branford, CT",31,true,true,true,false
+Myron Hunt,"Coronado, CA",1,false,false,false,false
+Alen Kevorkian,"Woodland Hills, CA",45,true,true,true,false
+Stu (and Jackie) Kim,"Edwardsville, IL",47,true,true,false,true
+Benjamin Posner,"Concord, NH",34,true,false,false,false
+Tom Rubin,"Galloway, NJ",66,true,false,false,false
+Zach Rose & Jennifer Rose,"Bloomington, IN",38,true,false,false,false
+Amanda Karr,"Long Beach, CA",53,true,true,true,false
+Kelly Peyton,"Pittsburgh, PA",44,true,true,true,false
+Jonathan Grossman,"San Francisco, CA",23,false,false,false,false
+Kosta Bakalis,"Astoria, NY",45,false,false,false,false
+Tony J,"Chicago, IL",52,true,false,false,false
+Andy Moeck,"Long Beach, CA",42,true,false,false,false
+Meghan Meeker,"Akron, OH",27,true,true,true,false
+A. Moore,"Milwaukee, WI",49,true,true,true,false
+"Jesse, Rachel, and Rex","New York, NY",25,true,true,true,false
+Brian Scott Burns,"Phoenix, AZ",35,true,true,true,false
+Ellen Huang,"Los Angeles, CA",32,true,false,false,false
+Rich D,"brooklyn, NY",31,false,false,false,false
+Anthony Beatty,"San Diego, CA",35,false,false,false,false
+William Parker,"Greenville, SC",30,false,false,false,false
+Craig loewenstern ,"new york, NY",42,true,false,false,false
+"Bobby Robertson, Erica Gueco, Baxter, Zoe & Chuy","Las Vegas, NV",31,true,true,true,false
+Scott Deis ,"Toledo, OH",37,true,false,false,false
+Kevin O'Shea,"Swanton , VT",65,true,true,false,true
+William A. Lawson,"Blairsville, GA",74,true,true,true,false
+Roger Echols,"Winston-Salem, NC",47,false,true,false,true
+Adrian Moeller,"brooklyn, NY",37,true,true,true,false
+B. Lavett,"Austerlitz, NY",46,true,false,false,false
+"Brian Michael, The Wandering Telephonic Psychic","Austin, TX",32,true,true,true,false
+Catherine Scott ,"Boise, ID",64,true,true,true,false
+Paul Geller,"New York, NY",32,false,true,true,false
+Cindy,"Las vegas, NV",56,true,true,true,false
+Samuel Ford,"Charlotte, NC",26,false,false,false,false
+Bill and Kelly Rushlow,"Papillion, NE",50,true,true,false,true
+Ryan v,"Carlsbad, CA",37,true,false,false,false
+Lindsey Kronmiller,"Durham, NC",31,true,true,false,true
+Nicky Valese,"Clifton, NJ",35,true,false,false,false
+Casey Dunn,"Seattle, WA",22,false,true,true,false
+AJ Cruz,"Menlo Park, CA",27,true,false,false,false
+Neal H,"Chicago, IL",25,false,true,true,false
+Michael Henry,"Seattle, WA",23,false,false,false,false
+Richard polonitza,"Cranford, NJ",67,true,true,false,true
+meghan merritt,"Escondido, CA",32,true,true,false,true
+Tyler Zacharia,"Agoura Hills, CA",30,true,true,true,false
+"Jeff Schubert, Leah Sefton, Autumn, Sprout","Indianapolis, IN",25,true,true,false,true
+Shawn Stacy,"Las Vegas, NV",40,false,true,true,false
+Laurent Teyssere,"Bethesda, MD",29,false,false,false,false
+Nikki Galvab,"Los Angeles, CA",27,false,false,false,false
+Nathan Godding,"San Francisco, CA",26,true,true,true,false
+Chris Adams,"Columbus, OH",40,true,true,true,false
+Alex Hsu,",",26,false,false,false,false
+Jenna & Anthony Telitz,"Henderson, CO",30,true,false,false,false
+Jose Rivera,"Renton, WA",31,true,false,false,false
+Holly Ambuehl,"Normal, IL",36,true,true,true,false
+Melina,"Bellevue, WA",21,true,false,false,false
+Jake M.,"Coupeville, WA",49,true,true,true,false
+Wil Allen,"Brooklyn, NY",41,true,false,false,false
+Sam Kattar,"Wakefield, MA",36,true,true,true,false

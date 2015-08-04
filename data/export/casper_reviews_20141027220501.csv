@@ -1,0 +1,163 @@
+name,gender,location,age,rating,partner?,pet?,dog?,cat?
+Heather Anderson,female,"Denver, CO",25,5,true,false,false,false
+Michael Lewis,male,"Fort Collins, CO",27,5,false,true,true,false
+Tim King,male,"Naples, FL",60,5,false,true,true,false
+Aliza Hausman,female,"LOS ANGELES, CA",34,5,true,false,false,false
+Trish,female,"Wichita Falls, TX",29,5,true,true,true,false
+Trish,not_guessed,"Wichita Falls, TX",29,5,true,true,true,false
+Brook Baker,female,"Houston, TX",44,5,true,true,false,true
+Jill Bergus,female,"Dallas, TX",41,5,true,true,true,false
+Armand Keim,male,"Tuckahoe, NY",80,5,true,false,false,false
+Perry Jones,male,"Newark, OH",63,5,false,false,false,false
+Jona Decker,male,"Madison, WI",41,5,false,true,true,false
+Steve Bucknam,male,"Stratham, NH",42,3,true,true,false,true
+Raymond Schelp,male,"Lees Summit, MO",65,5,false,true,true,false
+Armand Keim,not_guessed,"Tuckahoe, NY",80,4,true,false,false,false
+Terrence Robbins,male,"Seattle, WA",46,5,true,true,true,false
+Roger,male,"Charleston,",29,1,false,false,false,false
+Coleen Kearon,female,"Montpelier, VT",50,5,false,true,true,false
+Sophia McLin,female,"Amesbury, MA",39,5,true,false,false,false
+John Dowler,male,"Tallahassee, FL",64,5,false,false,false,false
+Michelle D,female,"Portland, OR",34,5,true,true,false,true
+Beth Gunzinger,female,"Woodbridge, VA",53,5,true,false,false,false
+Anna Bowles,female,"San Francisco, CA",23,5,false,true,true,false
+Derek Severance,male,"Northwood, NH",39,5,true,false,false,false
+Carl Spitzer,male,"Mill Valley, CA",53,5,false,false,false,false
+Drew,male,"Brooklyn, NY",39,5,false,true,true,false
+Matt Tormey,male,"phoenix, AZ",25,5,true,false,false,false
+Amanda Don,female,"Manahawkin, NJ",33,5,true,true,true,false
+Michael Berman,not_guessed,"Brooklyn, NY",34,4,false,true,true,false
+David E,male,"Naples, FL",26,5,false,false,false,false
+Josh Peizer,male,"Severn, MD",27,5,false,true,false,true
+Kyle Bome,male,"Syracuse, NY",29,5,false,false,false,false
+Jimmy Ly,male,"Chicago, IL",25,4,false,false,false,false
+Bea Fremderman,female,"Brooklyn, NY",26,5,false,false,false,false
+Metra Horetsky,not_guessed,"Arlington, VA",27,5,true,false,false,false
+Alex and Danielle,male,"Buffalo, NY",26,5,true,true,false,true
+Patricia Floyd,female,"Springfield, IL",58,5,true,true,false,true
+Patrick & Susan Kopplin,male,"Houston, TX",65,5,true,true,true,false
+Valerie K and Sam H,female,"Kalispell, MT",37,5,true,true,false,true
+Shelby Meinzer,female,"Santa Monica, CA",31,5,false,false,false,false
+Malte & Franzi,male,"Los Angeles, CA",31,4,true,false,false,false
+Jamie Hogan,female,"Pecos, TX",35,5,true,true,true,false
+Steve Angle,not_guessed,"St Louis, MO",62,5,true,true,true,false
+Angela Salvo,female,"San Diego, CA",39,5,false,true,false,true
+Ty,male,"San Diego, CA",23,5,false,false,false,false
+John W,not_guessed,"Danville, KY",27,5,true,true,true,false
+Lydia Ortega ,female,"Austin, TX",34,1,true,false,false,false
+Melissa Drawdy,female,"Fountain, CO",34,5,true,true,true,false
+Ed Givhan,male,"Tuscaloosa, AL",75,5,false,false,false,false
+Mike Coyle,male,"Philadelphia, PA",40,5,true,false,false,false
+Nicholas Mack,male,"TALLAHASSEE, FL",30,5,false,true,true,false
+Larry& Shirley Sparks,not_guessed,"Morganton, NC",72,5,true,true,true,false
+Vaughn Felix,male,"Doral, FL",35,5,true,false,false,false
+Manoj Joshi,male,"Sunnyvale, CA",43,5,true,false,false,false
+Halvor Remole,not_guessed,"Darien, CT",20,5,false,true,true,false
+Daniel Wald,male,"New Haven, CT",27,5,false,false,false,false
+Carl Bausemer,not_guessed,"Sutton, MA",46,5,true,true,true,false
+Chris D,male,"Washington, DC",2,5,true,false,false,false
+Arsham M,male,"Cambridge, MA",22,5,false,true,true,false
+Alok,male,"Philadelphia, PA",47,2,true,false,false,false
+Bob Francis Howard III,male,"Austin, WV",59,5,true,false,false,false
+Sunny Stueve,male,"Alexandria, VA",35,5,true,true,true,false
+Dustin G,male,"new york city, NY",1,5,true,false,false,false
+Scott Walther,male,"Pikeville, NC",37,5,true,false,false,false
+Mikah D. Sargent,female,"Columbia, MO",21,5,true,false,false,false
+Jimmy Ly,not_guessed,"Chicago, IL",25,4,false,false,false,false
+gerome and kathy,male,"charelston, WV",55,5,false,true,true,false
+Tyler Reeves,male,"Birmingham, AL",29,5,true,true,false,true
+Matthew Pietkevich,male,"West Hartfrod, CT",25,5,false,false,false,false
+Amanda Kwasniewicz,not_guessed,"Santa Monica, CA",23,5,false,false,false,false
+Terry Smith,male,"New York, NY",34,1,false,true,true,false
+Colleen Rosenberg,female,"447 N. Union Avenue, AL",61,5,false,true,true,false
+Bon Duke,male,"Brooklyn, NY",26,5,false,false,false,false
+Bonnie Bashor,female,"Nashville, TN",66,5,false,true,true,false
+Jason Vilardi,male,"Epping, NH",27,5,true,true,true,false
+Katie Parker,female,"Seattle, WA",29,4,false,true,true,false
+"Kevin, Jess and Tuxxi",not_guessed,"Denver, CO",29,5,true,true,true,false
+Scott Ebling,not_guessed,"Des Moines, IA",40,5,false,true,false,true
+Sean Hertzsch,male,"Covington, KY",39,5,true,false,false,false
+Kyle Crumrine,not_guessed,"Oakland, CA",31,5,true,false,false,false
+Zoe Bradley,female,"Sharon, MA",62,5,false,true,false,true
+Lane and Carol Wise,male,"Westland, MI",64,5,true,false,false,false
+Rachel Giuliani,female,"Portland, OR",31,5,false,true,false,true
+Adam Syfrett,male,"Auburn, AL",30,5,false,true,true,false
+Michael Parks,not_guessed,"Durham, ME",54,5,true,false,false,false
+Vinod Ethirajan,male,"Highlands Ranch, CO",45,5,true,false,false,false
+Josh Amos,not_guessed,"Denver, CO",32,5,true,true,true,false
+Karen Valentine,female,"Brooklyn, NY",34,5,true,true,true,false
+Meredith Denver,female,"Texas, TX",44,5,true,false,false,false
+Lucas Mascatello,male,"New York, NY",24,5,false,false,false,false
+Ryan K.,male,"Petaluma, CA",34,5,true,true,true,false
+Matt Vaughn,not_guessed,"Olathe, KS",34,5,true,false,false,false
+Ty Alan,not_guessed,"Las Vegas, NV",31,5,false,true,true,false
+John P,not_guessed,"Rodeo, CA",33,5,true,true,true,false
+Jim D.,male,"Charlottesville, VA",35,5,true,false,false,false
+rebecca lucas,female,"altadena, CA",35,3,true,true,false,true
+David Howard,not_guessed,"Tarzana, CA",52,5,true,true,true,false
+Angela Peterman,not_guessed,"Houston, TX",50,5,true,false,false,false
+Rhett Summers,male,"Washington, DC",27,5,true,false,false,false
+Dave Nordstrom,male,"New York, NY",26,5,false,false,false,false
+Nancy Grant,female,"Carpinteria, CA",82,5,false,true,false,true
+Bret Ridenour,male,"Fargo, ND",45,5,true,true,true,false
+James Plummer,male,"Albuquerque, NM",64,3,true,true,true,false
+Chris & Cassie Ceccoli,male,"Minneapolis, MN",38,5,true,true,true,false
+Ryan Conley,male,"Branford, CT",31,5,true,true,true,false
+Myron Hunt,male,"Coronado, CA",1,5,false,false,false,false
+Alen Kevorkian,male,"Woodland Hills, CA",45,5,true,true,true,false
+Stu (and Jackie) Kim,male,"Edwardsville, IL",47,5,true,true,false,true
+Benjamin Posner,male,"Concord, NH",34,4,true,false,false,false
+Tom Rubin,male,"Galloway, NJ",66,5,true,false,false,false
+Zach Rose & Jennifer Rose,male,"Bloomington, IN",38,5,true,false,false,false
+Amanda Karr,female,"Long Beach, CA",53,5,true,true,true,false
+Kelly Peyton,female,"Pittsburgh, PA",44,5,true,true,true,false
+Jonathan Grossman,male,"San Francisco, CA",23,5,false,false,false,false
+Kosta Bakalis,male,"Astoria, NY",45,5,false,false,false,false
+Tony J,male,"Chicago, IL",52,4,true,false,false,false
+Andy Moeck,male,"Long Beach, CA",42,5,true,false,false,false
+Meghan Meeker,female,"Akron, OH",27,5,true,true,true,false
+A. Moore,not_guessed,"Milwaukee, WI",49,5,true,true,true,false
+"Jesse, Rachel, and Rex",not_guessed,"New York, NY",25,5,true,true,true,false
+Brian Scott Burns,male,"Phoenix, AZ",35,5,true,true,true,false
+Ellen Huang,female,"Los Angeles, CA",32,5,true,false,false,false
+Rich D,male,"brooklyn, NY",31,5,false,false,false,false
+Anthony Beatty,male,"San Diego, CA",35,5,false,false,false,false
+William Parker,male,"Greenville, SC",30,5,false,false,false,false
+Craig loewenstern ,male,"new york, NY",42,5,true,false,false,false
+"Bobby Robertson, Erica Gueco, Baxter, Zoe & Chuy",male,"Las Vegas, NV",31,5,true,true,true,false
+Scott Deis ,male,"Toledo, OH",37,5,true,false,false,false
+Kevin O'Shea,male,"Swanton , VT",65,3,true,true,false,true
+William A. Lawson,not_guessed,"Blairsville, GA",74,5,true,true,true,false
+Roger Echols,male,"Winston-Salem, NC",47,5,false,true,false,true
+Adrian Moeller,male,"brooklyn, NY",37,5,true,true,true,false
+B. Lavett,not_guessed,"Austerlitz, NY",46,5,true,false,false,false
+"Brian Michael, The Wandering Telephonic Psychic",not_guessed,"Austin, TX",32,5,true,true,true,false
+Catherine Scott ,female,"Boise, ID",64,5,true,true,true,false
+Paul Geller,male,"New York, NY",32,5,false,true,true,false
+Cindy,female,"Las vegas, NV",56,4,true,true,true,false
+Samuel Ford,male,"Charlotte, NC",26,5,false,false,false,false
+Bill and Kelly Rushlow,male,"Papillion, NE",50,5,true,true,false,true
+Ryan v,not_guessed,"Carlsbad, CA",37,5,true,false,false,false
+Lindsey Kronmiller,female,"Durham, NC",31,4,true,true,false,true
+Nicky Valese,female,"Clifton, NJ",35,5,true,false,false,false
+Casey Dunn,female,"Seattle, WA",22,5,false,true,true,false
+AJ Cruz,male,"Menlo Park, CA",27,5,true,false,false,false
+Neal H,male,"Chicago, IL",25,5,false,true,true,false
+Michael Henry,male,"Seattle, WA",23,5,false,false,false,false
+Richard polonitza,male,"Cranford, NJ",67,5,true,true,false,true
+meghan merritt,female,"Escondido, CA",32,5,true,true,false,true
+Tyler Zacharia,male,"Agoura Hills, CA",30,4,true,true,true,false
+"Jeff Schubert, Leah Sefton, Autumn, Sprout",male,"Indianapolis, IN",25,5,true,true,false,true
+Shawn Stacy,male,"Las Vegas, NV",40,5,false,true,true,false
+Laurent Teyssere,male,"Bethesda, MD",29,5,false,false,false,false
+Nikki Galvab,female,"Los Angeles, CA",27,5,false,false,false,false
+Nathan Godding,male,"San Francisco, CA",26,5,true,true,true,false
+Chris Adams,not_guessed,"Columbus, OH",40,4,true,true,true,false
+Alex Hsu,male,",",26,5,false,false,false,false
+Jenna & Anthony Telitz,female,"Henderson, CO",30,5,true,false,false,false
+Jose Rivera,male,"Renton, WA",31,5,true,false,false,false
+Holly Ambuehl,female,"Normal, IL",36,4,true,true,true,false
+Melina,female,"Bellevue, WA",21,1,true,false,false,false
+Jake M.,male,"Coupeville, WA",49,5,true,true,true,false
+Wil Allen,male,"Brooklyn, NY",41,4,true,false,false,false
+Sam Kattar,male,"Wakefield, MA",36,5,true,true,true,false
